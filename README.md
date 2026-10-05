@@ -3,7 +3,7 @@
 
 <!-- ========== BANNER ========== -->
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Maimuna Momtaj Emu - GitHub Banner" />
+  <img src="Maimuna_Momtaj_Emu_banner_v2.png" width="100%" alt="Maimuna Momtaj Emu - GitHub Banner" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Maimuna Momtaj Emu</h1>
