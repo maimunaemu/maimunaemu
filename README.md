@@ -81,7 +81,7 @@ learning how to make technology more useful and secure.
 
 <p align="center">
   <a href="https://github.com/Mushfiq-Srijon/CareMeds-SD">
-    
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -90,15 +90,11 @@ learning how to make technology more useful and secure.
 <h2 align="center"> Ed-Bridge</h2>
 
 
+
 <p align="center">
   <a href="https://github.com/Mushfiq-Srijon/Ed-Bridge">
-    
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
   </a>
-</p>
-
-
-<p align="center">
-   <i>Keep learning, keep building, keep growing.</i> 
 </p>
 
 
