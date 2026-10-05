@@ -76,20 +76,25 @@ learning how to make technology more useful and secure.
 
 ##  Featured Projects
 
+<h2 align="center"> CareMeds-SD</h2>
+
+
 <p align="center">
-
-<a href="https://github.com/Mushfiq-Srijon/CareMeds-SD">
-  <img src="https://img.shields.io/badge/CareMeds--SD-GitHub%20Repository-181717?style=for-the-badge&logo=github" alt="CareMeds-SD Repository"/>
-</a>
-
-  
-
-<a href="https://github.com/Mushfiq-Srijon/Ed-Bridge">
-  <img src="https://img.shields.io/badge/Ed--Bridge-GitHub%20Repository-181717?style=for-the-badge&logo=github" alt="Ed-Bridge Repository"/>
-</a>
-
+  <a href="https://github.com/Mushfiq-Srijon/CareMeds-SD">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
+<br>
+
+<h2 align="center"> Ed-Bridge</h2>
+
+
+<p align="center">
+  <a href="https://github.com/Mushfiq-Srijon/Ed-Bridge">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 ---
 
 <p align="center">
@@ -97,8 +102,4 @@ learning how to make technology more useful and secure.
 </p>
 
 
----
 
-<p align="center">
-   <i>Keep learning, keep building, keep growing.</i> 
-</p>
