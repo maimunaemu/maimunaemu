@@ -6,7 +6,7 @@
   <img src="Maimuna_Momtaj_Emu_banner_v2.png" width="100%" alt="Maimuna Momtaj Emu - GitHub Banner" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Maimuna Momtaj Emu</h1>
+<h1 align="center">Hi, I'm Maimuna Momtaj Emu</h1>
 
 <h3 align="center">
   Computer Science Engineering Student | Aspiring Full Stack Developer
@@ -81,7 +81,7 @@ learning how to make technology more useful and secure.
 
 <p align="center">
   <a href="https://github.com/Mushfiq-Srijon/CareMeds-SD">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+    
   </a>
 </p>
 
@@ -92,10 +92,10 @@ learning how to make technology more useful and secure.
 
 <p align="center">
   <a href="https://github.com/Mushfiq-Srijon/Ed-Bridge">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+    
   </a>
 </p>
----
+
 
 <p align="center">
    <i>Keep learning, keep building, keep growing.</i> 
